@@ -1,0 +1,17 @@
+{
+	"scripts": {
+		"start": "parcel index.html",
+		"profile": "PARCEL_WORKERS=0 NODE_OPTIONS=--inspect ./node_modules/.bin/parcel index.html | cat"
+	},
+	"dependencies": {
+		"@adobe/react-spectrum": "^3.14.1",
+		"@fluentui/react": "^8.42.5",
+		"@types/react": "^17.0.36",
+		"@types/react-dom": "^17.0.11",
+		"antd": "^4.17.1",
+		"moment": "^2.29.1",
+		"parcel": "2.0.0-nightly.932",
+		"react": "^17.0.2",
+		"react-dom": "^17.0.2"
+	}
+}
