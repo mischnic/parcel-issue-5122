@@ -6,4 +6,4 @@ import * as React from "react";
 import * as ReactDOM from "react-dom";
 
 console.log(fluent, spectum, antd, moment, React, ReactDOM);
-console.log(20000000000000000)
+console.log(2);
